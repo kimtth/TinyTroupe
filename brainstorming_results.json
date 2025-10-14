@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Smart Summary & Action Items",
+    "description": "Automatically summarize long documents, emails, and meeting transcripts into a 3\u20135 bullet summary plus clearly extracted action items.",
+    "details": "Suggested assignees and due dates inferred from calendar and mention context."
+  },
+  {
+    "title": "Context-aware Natural Language Search",
+    "description": "Let users ask in plain language and return prioritized results across files, email, and chats.",
+    "details": "Provide explainability and quick filters."
+  },
+  {
+    "title": "Adaptive Prioritization & Focus Mode",
+    "description": "Rank tasks using deadlines, effort, and personal work patterns.",
+    "details": "Propose optimized focus blocks and auto-snooze low-priority interruptions."
+  },
+  {
+    "title": "Automated Workflow Composer",
+    "description": "Build repeatable workflows from natural-language prompts.",
+    "details": "Preview steps, check permissions, and let users approve. Example: \"send weekly report to team on Monday\"."
+  },
+  {
+    "title": "Meeting Assistant with Real-time Notes & Decisions",
+    "description": "Produce live notes and extract decisions and action items.",
+    "details": "Assign owners and sync items to tasks and calendar; provide searchable summaries post-meeting."
+  },
+  {
+    "title": "Writing Coach & Tone Adjuster",
+    "description": "Suggest edits for clarity, brevity, and tone based on audience; offer alternative phrasings.",
+    "details": "Flag potential issues (ambiguous wording, missing context)."
+  },
+  {
+    "title": "Smart Template & Snippet Manager",
+    "description": "Recommend templates and snippets based on context and auto-fill variables.",
+    "details": "Learn preferred phrasing over time."
+  },
+  {
+    "title": "Personal Knowledge Graph & Q&A",
+    "description": "Link people, projects, and documents into a private graph.",
+    "details": "Support conversational Q&A with cited sources and confidence scores."
+  },
+  {
+    "title": "Auto Data Insight Generator",
+    "description": "Scan spreadsheets and BI datasets to surface trends, anomalies, and suggested visualizations.",
+    "details": "Provide natural-language summaries and next-step suggestions."
+  },
+  {
+    "title": "Privacy-aware Controls & Explainability",
+    "description": "Expose which data the model used and provide concise explanations for suggestions.",
+    "details": "Offer scoped/on-device options for sensitive content."
+  }
+]
