@@ -1,3 +1,15 @@
+## Customized `main` branch for the Demonstration
+
+- Added `pyproject.toml` to manage Python dependencies.
+- Modified `openai_utils.py` to support GPT-5.
+- Added sample code to demonstrate how to visualize discussion results using a graph:
+  ```
+  brain_storm_to_mindmap.py
+  brainstorming_mindmap.png
+  brainstorming_results.json
+  ```
+----
+
 # TinyTroupe 🤠🤓🥸🧐
 *LLM-powered multiagent persona simulation for imagination enhancement and business insights.*
 
